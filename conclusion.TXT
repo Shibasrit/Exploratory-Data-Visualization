@@ -1,0 +1,1 @@
+In this project, using the plotting tools built into pandas, data on job outcome is explored.
